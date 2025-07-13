@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+venv-sgp/
+.env
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# VSCode / editor config
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
